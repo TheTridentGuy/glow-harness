@@ -30,5 +30,5 @@ I'm making this since I need a wearable source of UV light to go with some reall
 - Build the harness by cutting the PP webbing, assembling as necessary, and and sewing the PP webbing using a boxed-x stitch where needed.
 - Print ~10-20 clips for the optical fiber, and 2 battery cases, or 4 if you want to illuminate both ends.
 - Plan out a route for your fiber optics, and put clips on the webbing along that route.
-- Assemble the battery holders by putting a strip of conductive material in one end, and a UV-A LED in the other end. Clamp ends of the optical fiber in the battery holder.
+- Assemble the battery holders by putting a strip of conductive material in one end, and a UV-A LED in the other end. Clamp ends of the optical fiber in the battery holder. Insert batteries so that the conductive strip puts them in series, and the correct terminals are at the correct leads of the LED.
 - Route the optical fiber, and secure the battery holders.
